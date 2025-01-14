@@ -29,7 +29,7 @@ export function AQuestion(props: AQuestionProps) {
         Need tailored solution for your business?
         <br/>
         <br/>
-        Contact us or book a call—we’d love to chat about how your contribution can make an impact!
+        We’d love to chat about how your contribution can make an impact!
 
       </p>
       <div className="flex justify-center z-20 relative flex-wrap items-center !gap-4 !mt-5 md:!mt-7 xl:mt-11">
