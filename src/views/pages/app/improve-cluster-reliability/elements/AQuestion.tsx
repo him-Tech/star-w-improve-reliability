@@ -33,9 +33,8 @@ export function AQuestion(props: AQuestionProps) {
         )}
 
         <Button audience="ALL" level="PRIMARY" size="LARGE" className="!capitalize" icon={<TelephoneIcon />}>
-          <ExternalLink href="https://calendly.com/pekko/30min" underline={false}>
-            {" "}
-            Book a Call{" "}
+          <ExternalLink href="https://calendly.com/lauriane-m/open-source-economy" underline={false}>
+            Book a Call
           </ExternalLink>
         </Button>
       </div>
