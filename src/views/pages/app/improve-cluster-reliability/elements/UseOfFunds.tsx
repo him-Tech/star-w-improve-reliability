@@ -8,7 +8,7 @@ interface UseOfFundsProps {}
 export function UseOfFunds(props: UseOfFundsProps) {
   const reliableData = [
     { id: 1, text: "Having the equivalent of 2 full-time developers" },
-    { id: 2, text: "Setting up dedicated hardware to reproduce and fix bugs effectively." },
+    { id: 2, text: "Setting up dedicated hardware to reproduce and fix bugs effectively" },
     {
       id: 3,
       text: (
@@ -17,7 +17,7 @@ export function UseOfFunds(props: UseOfFundsProps) {
           <span className="bg-gradient-to-r from-[#FF7E4B] via-[#FF518C] to-[#FF518C]  font-bold text-transparent bg-clip-text inline-block">
             critical issues{" "}
           </span>{" "}
-          (like Issue #578).
+          (like Issue #578)
         </>
       ),
     },
